@@ -1,4 +1,6 @@
-# sv
+# Silsilah Keluarga
+
+Dikonversi dari Next.js ke Svelte
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
